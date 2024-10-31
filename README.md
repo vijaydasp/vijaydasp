@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vijaydasd2@gmail.com**
 
-- 📄 Know about my experiences [Embedded Systems: Arduino Uno, ESP32, ESP8266, Raspberry Pi Programming Languages: Python, HTML, CSS, JavaScript, Flutter, Dart Circuit Design: Proficient in designing circuit diagrams and PCB layouts](Embedded Systems: Arduino Uno, ESP32, ESP8266, Raspberry Pi Programming Languages: Python, HTML, CSS, JavaScript, Flutter, Dart Circuit Design: Proficient in designing circuit diagrams and PCB layouts)
+- 📄 Know about my experiences [Embedded Systems: Arduino Uno, ESP32, ESP8266, Raspberry Pi Programming Languages: Python, HTML, CSS, JavaScript, Flutter, Dart Circuit Design: Proficient in designing circuit diagrams and PCB layouts]
 
 - ⚡ Fun fact **I enjoy building AI-powered gadgets from the ground up, blending hardware and software seamlessly.**
 
