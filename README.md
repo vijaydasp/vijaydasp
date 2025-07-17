@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=vijaydasp&label=Profile%20views&color=0e75b6&style=flat" alt="vijaydasp" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vijaydasp&theme=onedark" alt="vijaydasp" />
-  </a>
-</p>
-
 ---
 
 🔭 **Currently Working On:**  
