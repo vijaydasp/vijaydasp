@@ -32,7 +32,7 @@ I love building AI-powered gadgets from the ground up, seamlessly merging hardwa
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/vijay-das-p" target="blank">
+  <a href="www.linkedin.com/in/vijay-das-p-a42068283" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/vijay-das-p" target="blank">
