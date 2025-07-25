@@ -65,7 +65,7 @@ I love building AI-powered gadgets from the ground up, seamlessly merging hardwa
 
 <h3 align="center">☕ Support Me</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/vijaydasp">
+  <a href="upi://pay?pa=vijaydasd2@oksbi&pn=Vijay%20Das&am=100&cu=INR">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
   </a>
 </p>
