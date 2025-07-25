@@ -65,12 +65,18 @@ I love building AI-powered gadgets from the ground up, seamlessly merging hardwa
 
 <h3 align="center">☕ Support Me</h3>
 <p align="center">
-  <a href="upi://pay?pa=vijaydasd2@oksbi&pn=Vijay%20Das&am=100&cu=INR">
+  <a href="https://www.buymeacoffee.com/vijaydasp">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
   </a>
 </p>
 
+<h4 align="center">📱 Or Support via Google Pay (Scan QR)</h4>
+<p align="center">
+  <img src="https://your-qr-image-url-here" height="300" alt="Scan to pay via Google Pay" />
+</p>
+
 ---
+
 
 <p align="center">“Innovating embedded systems with AI to build a smarter, connected world.”</p>
 
