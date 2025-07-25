@@ -70,13 +70,7 @@ I love building AI-powered gadgets from the ground up, seamlessly merging hardwa
   </a>
 </p>
 
-<h4 align="center">📱 Or Support via Google Pay (Scan QR)</h4>
-<p align="center">
-  <img src="https://your-qr-image-url-here" height="300" alt="Scan to pay via Google Pay" />
-</p>
-
 ---
-
 
 <p align="center">“Innovating embedded systems with AI to build a smarter, connected world.”</p>
 
