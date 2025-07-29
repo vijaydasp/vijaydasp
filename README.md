@@ -50,18 +50,6 @@ I love building AI-powered gadgets from the ground up, seamlessly merging hardwa
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
 </p>
 
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaydasp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijaydasp&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
 
 <h3 align="center">☕ Support Me</h3>
 <p align="center">
