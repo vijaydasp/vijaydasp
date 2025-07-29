@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay Das P</h1>
 <h3 align="center">Embedded Systems & AI/ML Engineer | Flutter Developer | IoT Solutions Architect</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijaydasp&label=Profile%20views&color=0e75b6&style=flat" alt="vijaydasp" />
-</p>
-
 ---
 
 🔭 **Currently Working On:**  
